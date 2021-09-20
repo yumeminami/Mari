@@ -31,3 +31,7 @@ $ cd ../Mari_client
 
 # 启动客户端进行测试
 $ go run main.go 
+
+```
+## 3.Mari架构图
+![Golang轻量级并发服务器框架](https://user-images.githubusercontent.com/67509746/133978611-0fb78caa-74d9-444f-b69c-ec9ec47f05e8.png)
