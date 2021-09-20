@@ -1,7 +1,7 @@
 # Mari框架
 
 ## 源码地址
-https://github.com/yumeminami/Mari-
+https://github.com/yumeminami/Mari
 
 
 ## 1.写在前面
